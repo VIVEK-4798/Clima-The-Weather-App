@@ -51,7 +51,7 @@ const Main = () => {
     <>
       <div className="bg-image-main w-svw h-svh flex justify-center items-center">
         <div className="w-1/4  h-1/4 bg-white opacity-45 flex flex-col justify-around items-center rounded-3xl max-sm:w-[350px] max-sm:h-60 max-lg:w-[450px]">
-          <h1 className="text-black text-3xl font-extrabold ">Clima: The Weather App</h1>
+          <h1 className="text-black text-3xl font-extrabold max-2xl:text-2xl">Clima: The Weather App</h1>
           <div className="flex flex-col justify-evenly h-1/3 items-center mb-12">
             <input
               className="bg-slate-900 w-80 text-white opacity-100 
